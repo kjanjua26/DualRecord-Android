@@ -11,4 +11,5 @@ Recently, Android provided the possibility of simultaneously capturing two camer
 
 ## Heart-of-DualRecord
 ![Logo](imgs/camera.png)
+
 The heart of this library is the dual camera setup on majority of latest Android devices. Each camera is tagged with a unique camera ID which can then be used to access the camera. The library when loaded, provides the option of selecting the camera you want. Current selection of cameras is based on Focal Length which differs for wide-angle camera, telephoto, etc. 
