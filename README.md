@@ -10,5 +10,5 @@ There is a possibility of simultaneous recordings, but there is a camera lag due
 Recently, Android provided the possibility of simultaneously capturing two cameras, but video recording is still not possible. Furthermore, that multicamera-capture works mostly on Pixel phones.
 
 ## Heart-of-DualRecord
-The heart of this library is the dual camera setup on majority of latest Android devices.
 ![Logo](imgs/camera.png)
+The heart of this library is the dual camera setup on majority of latest Android devices. Each camera is tagged with a unique camera ID which can then be used to access the camera. The library when loaded, provides the option of selecting the camera you want. Current selection of cameras is based on Focal Length which differs for wide-angle camera, telephoto, etc. 
