@@ -1,6 +1,6 @@
 ![Logo](imgs/pic.png)
 
-# DualRecord-Android [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+# DualRecord-Android [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/kjanjua26/DualRecord-Android) [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/kjanjua26/DualRecord-Android/blob/master/LICENSE)
 
 DualRecord-Android is an Android library to utilize the multi-cameras on Android devices. It allows you to switch between any two cameras you like and sets up recorder SurfaceView for both the cameras. It also provides preview possibility for cameras where live preview is visible from both cameras. 
 
